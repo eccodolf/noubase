@@ -1,0 +1,12 @@
+{
+  "name": "eccodolf-noubase",
+  "owner": {
+    "name": "eccodolf"
+  },
+  "plugins": [
+    {
+      "name": "noubase",
+      "source": "./"
+    }
+  ]
+}

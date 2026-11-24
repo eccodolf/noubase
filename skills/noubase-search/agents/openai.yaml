@@ -1,0 +1,4 @@
+interface:
+  display_name: "Search Noubase"
+  short_description: "Find and verify evidence across Noubase projects"
+  default_prompt: "Use $noubase-search to find the relevant evidence in Noubase and verify it against the indexed sources."

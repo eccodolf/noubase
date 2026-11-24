@@ -1,0 +1,15 @@
+{
+  "name": "eccodolf-noubase",
+  "interface": {
+    "displayName": "Noubase"
+  },
+  "plugins": [
+    {
+      "name": "noubase",
+      "source": {
+        "source": "local",
+        "path": "./"
+      }
+    }
+  ]
+}
